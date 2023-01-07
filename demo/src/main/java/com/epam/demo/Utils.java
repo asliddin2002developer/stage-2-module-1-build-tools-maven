@@ -1,7 +1,7 @@
 package com.epam.demo;
 
 import java.util.List;
-import src.main.java.com.epam.utils.StringUtils
+import src.main.java.com.epam.utils.StringUtils;
 
 public class Utils {
     public static boolean isAllPositiveNumbers(List<String> args) {
