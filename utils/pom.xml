@@ -10,9 +10,9 @@
         <version>1.0-SNAPSHOT</version>
     </parent>
 
-    <groupId>!{groupId}</groupId>
-    <artifactId>!{artifactId}</artifactId>
-    <version>!{version}</version>
+    <groupId>com.epam.demo</groupId>
+    <artifactId>pom</artifactId>
+    <version>1.0-SNAPSHOT</version>
 
     <dependencies>
         <!-- https://mvnrepository.com/artifact/org.apache.commons/commons-lang3 -->
